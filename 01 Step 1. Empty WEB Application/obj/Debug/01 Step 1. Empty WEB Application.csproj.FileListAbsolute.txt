@@ -1,0 +1,5 @@
+D:\Исходные тексты\Git\ASP.NET\01 Step 1. Empty WEB Application\bin\_01_Step_1.Empty_WEB_Application.dll
+D:\Исходные тексты\Git\ASP.NET\01 Step 1. Empty WEB Application\bin\_01_Step_1.Empty_WEB_Application.pdb
+D:\Исходные тексты\Git\ASP.NET\01 Step 1. Empty WEB Application\obj\Debug\_01_Step_1.Empty_WEB_Application.dll
+D:\Исходные тексты\Git\ASP.NET\01 Step 1. Empty WEB Application\obj\Debug\_01_Step_1.Empty_WEB_Application.pdb
+D:\Исходные тексты\Git\ASP.NET\01 Step 1. Empty WEB Application\obj\Debug\01 Step 1. Empty WEB Application.csprojResolveAssemblyReference.cache
