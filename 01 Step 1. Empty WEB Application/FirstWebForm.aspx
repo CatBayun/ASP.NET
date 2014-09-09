@@ -16,19 +16,21 @@
     <h1>New Year's Party at Alexie's!</h1>
     <p>We're going to have an exciting party. And you're invited!</p>
 </div>
-<div><label>Your name:</label><input type="text" id="name" /></div>
-<div><label>Your email:</label><input type="text" id="email" /></div>
-<div><label>Your phone:</label><input type="text" id="phone" /></div>
+<asp:ValidationSummary ID="validationSummary" runat="server" ShowModelStateErrors="true" />
+<div><label>Your name:</label><input type="text" id="Name" runat="server"/></div>
+<div><label>Your email:</label><input type="text" id="Email" runat="server"/></div>
+<div><label>Your phone:</label><input type="text" id="Phone" runat="server"/></div>
 <div>
 <label>Will you attend?</label>
-<select id="willattend">
+<select id="WillAttend" runat="server">
 <option value="">Choose an Option</option>
 <option value="true">Yes</option>
 <option value="false">No</option>
 </select>
 </div>
 <div>
-<button type="submit">Submit RSVP</button>
+    <button type="submit">Submit RSVP</button>
+    <button type="submit">Summary</button>
 </div>
 </form>
 </body>

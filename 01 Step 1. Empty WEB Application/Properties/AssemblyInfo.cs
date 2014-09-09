@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("_01_Step_1.Empty_WEB_Application")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Top Systems")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("_01_Step_1.Empty_WEB_Application")]
-[assembly: AssemblyCopyright("Copyright © Top Systems 2014")]
+[assembly: AssemblyCopyright("Copyright © Cat Bayun 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
